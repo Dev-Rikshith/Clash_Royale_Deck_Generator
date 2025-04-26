@@ -1,0 +1,125 @@
+,Card,maxLevel,elixirCost,rarity,Win Rate,Win Rate Change,Usage,Usage Change,Damage,Damage per second,Death Damage,Health (+Shield),Hit Speed,Range,Type
+0,Archer Queen,4.0,5.0,champion,56.47,1.62,6.48,0.32,159,0,0.0,190,1.5,0,Troops and Defenses
+1,Archers,14.0,3.0,common,46.1,0.66,1.44,0.0,86,71,0.0,254,1.2,5,Troops and Defenses
+2,Arrows,14.0,3.0,common,55.97,0.13,30.64,0.0,243,0,0.0,190,1.5,0,Damaging Spells
+3,Baby Dragon,9.0,4.0,epic,51.97,-0.33,4.64,0.08,133,83,0.0,"1,064",1.6,3.5,Troops and Defenses
+4,Balloon,9.0,5.0,epic,57.38,1.53,7.52,-0.4,798,266,272.0,"1,396",3,0,Troops and Defenses
+5,Bandit,6.0,3.0,legendary,55.7,0.75,9.6,0.48,160,160,0.0,780,1,0,Troops and Defenses
+6,Barbarian Barrel,9.0,2.0,epic,57.11,1.49,8.4,0.56,159,0,0.0,190,1.5,0,Troops and Defenses
+7,Barbarian Hut,12.0,6.0,rare,46.98,6.92,0.16,0.08,159,0,0.0,190,1.5,0,Spawners
+8,Barbarians,14.0,5.0,common,50.35,-1.28,0.32,-0.08,159,106,0.0,636,1.5,0,Troops and Defenses
+9,Bats,14.0,2.0,common,51.71,-0.7,8.88,0.08,67,67,0.0,67,1,0,Troops and Defenses
+10,Battle Healer,12.0,4.0,rare,56.07,3.27,1.44,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+11,Battle Ram,12.0,4.0,rare,54.84,-1.16,2.0,0.0,246,0,0.0,756,0,0,Troops and Defenses
+12,Berserker,14.0,2.0,common,54.13,-0.44,1.36,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+13,Bomb Tower,12.0,4.0,rare,53.49,1.29,2.24,-0.16,176,110,0.0,"1,672",1.6,6,Troops and Defenses
+14,Bomber,14.0,2.0,common,54.07,0.74,2.48,-0.08,271,142,0.0,311,1.9,4.5,Troops and Defenses
+15,Boss Bandit,4.0,6.0,champion,54.6,-1.19,4.32,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+16,Bowler,9.0,5.0,epic,59.11,2.44,3.04,0.32,239,95,0.0,"1,596",2.5,5,Troops and Defenses
+17,Cannon,14.0,3.0,common,48.58,0.6,10.64,-0.4,127,158,0.0,742,0.8,5.5,Troops and Defenses
+18,Cannon Cart,9.0,5.0,epic,61.19,2.36,4.0,0.32,203,169,0.0,696 (+696),1.2,5.5,Troops and Defenses
+19,Clone,9.0,3.0,epic,49.53,1.24,0.88,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+20,Dark Prince,9.0,4.0,epic,56.87,1.28,4.24,0.4,206,147,0.0,977 (+266),1.5,0,Troops and Defenses
+21,Dart Goblin,12.0,3.0,rare,51.41,-0.07,9.44,-0.32,93,132,0.0,216,0.7,6.5,Troops and Defenses
+22,Earthquake,12.0,3.0,rare,54.97,1.11,6.72,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+23,Electro Dragon,9.0,5.0,epic,44.52,0.58,0.8,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+24,Electro Giant,9.0,7.0,epic,51.35,0.38,1.28,-0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+25,Electro Spirit,14.0,1.0,common,55.94,0.23,6.4,0.64,159,0,0.0,190,1.5,0,Troops and Defenses
+26,Electro Wizard,6.0,4.0,legendary,54.05,1.01,9.84,-0.16,200,111,0.0,590,1.8,5,Troops and Defenses
+27,Elite Barbarians,14.0,6.0,common,52.4,0.66,3.28,-0.16,254,169,0.0,970,1.5,0,Troops and Defenses
+28,Elixir Collector,12.0,6.0,rare,59.31,2.86,2.32,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+29,Elixir Golem,12.0,3.0,rare,51.26,-1.99,2.96,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+30,Executioner,9.0,5.0,epic,47.81,2.03,2.72,-0.16,280,116,0.0,"1,010",2.4,4.5,Troops and Defenses
+31,Fire Spirit,14.0,1.0,common,51.2,-1.18,1.76,-0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+32,Fire Spirits,10.134453781512605,3.9745762711864407,epic,53.2926050420168,0.42235294117647065,5.337142857142857,-0.020840336134453786,169,0,0.0,91,0,2,Troops and Defenses
+33,Fireball,12.0,4.0,rare,53.21,0.75,18.64,0.32,572,0,0.0,190,1.5,0,Damaging Spells
+34,Firecracker,14.0,3.0,common,50.15,0.3,8.08,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+35,Fisherman,6.0,3.0,legendary,56.37,1.53,4.0,0.48,159,0,0.0,190,1.5,0,Troops and Defenses
+36,Flying Machine,12.0,4.0,rare,57.98,-0.28,2.24,-0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+37,Freeze,9.0,4.0,epic,54.81,1.34,3.12,0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+38,Furnace,12.0,4.0,rare,51.17,5.53,0.64,-0.08,159,0,0.0,190,1.5,0,Spawners
+39,Giant,12.0,5.0,rare,59.1,1.1,2.32,-0.08,211,140,0.0,"3,344",1.5,0,Troops and Defenses
+40,Giant Skeleton,9.0,6.0,epic,51.68,-1.0,2.0,-0.08,172,114,957.0,"2,660",1.5,0,Troops and Defenses
+41,Giant Snowball,14.0,2.0,common,53.08,-1.82,2.24,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+42,Goblin Barrel,9.0,3.0,epic,48.82,-0.09,10.8,-0.72,159,0,0.0,190,1.5,0,Spawners
+43,Goblin Cage,12.0,4.0,rare,50.9,-3.06,1.2,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+44,Goblin Curse,9.0,2.0,epic,52.53,-1.69,1.28,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+45,Goblin Demolisher,12.0,4.0,rare,53.67,1.06,0.48,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+46,Goblin Drill,9.0,4.0,epic,51.49,-1.18,1.92,0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+47,Goblin Gang,14.0,3.0,common,55.02,0.34,26.16,0.64,106/50,96/38,0.0,169/110,1.1/1.3,0/5,Troops and Defenses
+48,Goblin Giant,9.0,6.0,epic,45.66,-6.88,0.56,-0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+49,Goblin Hut,12.0,5.0,rare,49.41,1.24,0.4,-0.08,159,0,0.0,190,1.5,0,Spawners
+50,Goblin Machine,6.0,5.0,legendary,57.56,-2.1,0.88,-0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+51,Goblins,14.0,2.0,common,54.32,1.04,3.6,0.0,106,96,0.0,169,1.1,0,Troops and Defenses
+52,Goblinstein,4.0,5.0,champion,54.22,1.94,4.64,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+53,Golden Knight,4.0,4.0,champion,50.69,0.31,1.68,-0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+54,Golem,9.0,8.0,epic,57.26,1.9,2.24,0.24,259,103,259.0,"4,256",2.5,0,Troops and Defenses
+55,Golemite,10.134453781512605,3.9745762711864407,epic,53.2926050420168,0.42235294117647065,5.337142857142857,-0.020840336134453786,53,21,53.0,864,2.5,0,Troops and Defenses
+56,Graveyard,6.0,5.0,legendary,56.34,1.72,3.44,0.0,159,0,0.0,190,1.5,0,Spawners
+57,Guards,9.0,3.0,epic,58.65,1.39,11.84,1.12,86,71,0.0,86 (+199),1.2,0,Troops and Defenses
+58,Heal Spirit,12.0,1.0,rare,59.3,-0.26,1.6,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+59,Hog Rider,12.0,4.0,rare,51.93,0.76,19.44,-0.4,264,176,0.0,"1,408",1.5,0,Troops and Defenses
+60,Hunter,9.0,4.0,epic,50.58,2.64,1.52,0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+61,Ice Golem,12.0,2.0,rare,51.08,1.21,4.08,0.16,70,28,70.0,"1,047",2.5,1,Troops and Defenses
+62,Ice Spirit,14.0,1.0,common,49.76,-0.78,20.64,-0.72,95,0,0.0,190,0,2.5,Troops and Defenses
+63,Ice Wizard,6.0,3.0,legendary,53.29,1.32,7.2,0.08,69,40,0.0,665,1.7,5.5,Troops and Defenses
+64,Inferno Dragon,6.0,4.0,legendary,55.56,0.31,8.16,0.32,30-350,75-875,0.0,"1,070",0.4,4,Troops and Defenses
+65,Inferno Tower,12.0,5.0,rare,50.54,-1.09,7.6,-0.16,35-704,"87-1,760",0.0,"1,408",0.4,6,Troops and Defenses
+66,Knight,14.0,3.0,common,51.79,1.59,8.88,-0.24,159,144,0.0,"1,399",1.1,0,Troops and Defenses
+67,Lava Hound,6.0,7.0,legendary,60.53,1.84,2.4,0.0,45,34,0.0,"3,000",1.3,2,Troops and Defenses
+68,Lava Pup,10.134453781512605,3.9745762711864407,epic,53.2926050420168,0.42235294117647065,5.337142857142857,-0.020840336134453786,45,45,0.0,179,1,2,Troops and Defenses
+69,Lightning,9.0,6.0,epic,56.03,0.2,7.04,-0.32,864,0,0.0,190,1.5,0,Damaging Spells
+70,Little Prince,4.0,3.0,champion,52.56,2.73,1.76,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+71,Lumberjack,6.0,4.0,legendary,53.12,0.53,4.32,-0.24,200,285,0.0,990,0.7,0,Troops and Defenses
+72,Magic Archer,6.0,4.0,legendary,48.68,1.38,4.08,-0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+73,Mega Knight,6.0,7.0,legendary,48.5,-0.1,5.04,-0.48,159,0,0.0,190,1.5,0,Troops and Defenses
+74,Mega Minion,12.0,3.0,rare,58.08,2.0,3.28,-0.08,258,172,0.0,695,1.5,2,Troops and Defenses
+75,Mighty Miner,4.0,4.0,champion,57.0,-0.05,4.24,-0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+76,Miner,6.0,3.0,legendary,55.25,1.68,8.0,0.16,160,133,0.0,"1,000",1.2,0,Troops and Defenses
+77,Mini P.E.K.K.A,12.0,4.0,rare,51.32,-0.85,7.36,-0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+78,Mini P.E.K.K.A.,10.134453781512605,3.9745762711864407,epic,53.2926050420168,0.42235294117647065,5.337142857142857,-0.020840336134453786,598,332,0.0,"1,056",1.8,0,Troops and Defenses
+79,Minion Horde,14.0,5.0,common,52.17,3.6,1.44,-0.32,84,84,0.0,190,1,2,Troops and Defenses
+80,Minions,14.0,3.0,common,53.23,-0.87,2.88,-0.32,84,84,0.0,190,1,2,Troops and Defenses
+81,Mirror,9.0,3.9745762711864407,epic,44.18,-1.02,1.84,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+82,Monk,4.0,5.0,champion,57.35,1.0,2.32,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+83,Mortar,14.0,4.0,common,49.22,3.38,0.32,-0.08,228,45,0.0,"1,272",5,3-11,Troops and Defenses
+84,Mother Witch,6.0,4.0,legendary,57.19,-0.07,2.0,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+85,Musketeer,12.0,4.0,rare,50.09,-0.5,5.12,-0.32,176,160,0.0,598,1.1,6,Troops and Defenses
+86,Night Witch,6.0,4.0,legendary,57.32,-0.27,3.12,-0.24,260,173,0.0,750,1.5,0,Troops and Defenses
+87,P.E.K.K.A,9.0,7.0,epic,50.61,1.65,3.28,-0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+88,P.E.K.K.A.,10.134453781512605,3.9745762711864407,epic,53.2926050420168,0.42235294117647065,5.337142857142857,-0.020840336134453786,678,376,0.0,"3,458",1.8,0,Troops and Defenses
+89,Phoenix,6.0,4.0,legendary,58.4,0.67,1.6,-0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+90,Poison,9.0,4.0,epic,52.33,-0.06,7.44,0.08,600,0,0.0,190,1.5,0,Damaging Spells
+91,Prince,9.0,5.0,epic,56.07,0.03,9.92,-0.32,325,216,0.0,"1,463",1.5,0,Troops and Defenses
+92,Princess,6.0,3.0,legendary,52.04,0.43,9.92,-0.4,140,46,0.0,216,3,9,Troops and Defenses
+93,Rage,9.0,2.0,epic,55.06,0.73,8.48,-0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+94,Ram Rider,6.0,5.0,legendary,53.06,0.05,3.2,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+95,Rascals,14.0,5.0,common,56.92,-2.86,1.36,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+96,Rocket,12.0,6.0,rare,48.96,-0.08,7.44,-0.4,"1,232",0,0.0,190,1.5,0,Damaging Spells
+97,Royal Delivery,14.0,3.0,common,54.17,1.06,4.0,0.16,159,0,0.0,190,1.5,0,Troops and Defenses
+98,Royal Ghost,6.0,3.0,legendary,57.5,-0.43,5.52,0.32,159,0,0.0,190,1.5,0,Troops and Defenses
+99,Royal Giant,14.0,6.0,common,43.88,-0.16,0.72,-0.16,159,93,0.0,"2,544",1.7,6.5,Troops and Defenses
+100,Royal Hogs,12.0,5.0,rare,55.41,0.22,4.48,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+101,Royal Recruits,14.0,7.0,common,49.57,-0.5,0.96,-0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+102,Rune Giant,9.0,4.0,epic,44.3,-0.18,0.32,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+103,Skeleton Army,9.0,3.0,epic,52.39,-0.32,6.8,-0.8,67,67,0.0,67,1,0,Troops and Defenses
+104,Skeleton Barrel,14.0,3.0,common,56.7,0.1,5.36,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
+105,Skeleton Dragons,14.0,4.0,common,61.78,3.01,2.72,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+106,Skeleton King,4.0,4.0,champion,57.4,-0.69,3.68,0.24,159,0,0.0,190,1.5,0,Troops and Defenses
+107,Skeletons,14.0,1.0,common,51.05,-0.26,14.56,-0.56,67,67,0.0,67,1,0,Troops and Defenses
+108,Sparky,6.0,6.0,legendary,57.06,1.34,3.12,0.24,"1,300",260,0.0,"1,200",5,4.5,Troops and Defenses
+109,Spear Goblins,14.0,2.0,common,55.91,0.89,4.0,0.0,50,38,0.0,110,1.3,5,Troops and Defenses
+110,Suspicious Bush,12.0,2.0,rare,54.43,-1.31,1.12,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+111,Tesla,14.0,4.0,common,50.38,0.32,8.64,-0.24,135,168,0.0,954,0.8,5.5,Troops and Defenses
+112,The Log,6.0,2.0,legendary,52.5,0.46,42.88,-1.04,240,0,0.0,190,1.5,0,Damaging Spells
+113,Three Musketeers,12.0,9.0,rare,56.4,-2.85,0.72,0.08,176,160,0.0,598,1.1,6,Troops and Defenses
+114,Tombstone,12.0,3.0,rare,53.38,1.62,2.56,0.0,159,0,0.0,190,1.5,0,Spawners
+115,Tornado,9.0,3.0,epic,51.63,0.95,13.52,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+116,Valkyrie,12.0,4.0,rare,47.16,-1.56,3.04,-0.56,211,140,0.0,"1,548",1.5,0,Troops and Defenses
+117,Void,9.0,3.0,epic,53.83,-1.8,0.8,-0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+118,Wall Breakers,9.0,2.0,epic,54.09,0.57,7.12,0.08,159,0,0.0,190,1.5,0,Troops and Defenses
+119,Witch,9.0,5.0,epic,49.92,0.65,5.12,-0.48,69,98,0.0,696,0.7,5,Troops and Defenses
+120,Wizard,12.0,5.0,rare,47.21,-0.74,2.72,-0.16,228,163,0.0,598,1.4,5.5,Troops and Defenses
+121,X-Bow,9.0,6.0,epic,51.72,0.13,3.04,0.24,26,104,0.0,"1,330",0.25,11.5,Troops and Defenses
+122,Zap,14.0,2.0,common,52.82,-0.17,11.36,-0.24,159,0,0.0,190,1.5,0,Damaging Spells
+123,Zappies,12.0,4.0,rare,59.6,-1.19,1.28,0.0,159,0,0.0,190,1.5,0,Troops and Defenses
